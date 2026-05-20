@@ -1,2 +1,6 @@
 .env
 .claude/
+crontab.backup-*.txt
+crontab.new.txt
+tree_summarizer.log
+reports/

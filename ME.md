@@ -5,9 +5,8 @@
 * **Education:** M.S. in AI at WPI (Graduating May 2026, GPA 3.75). Advanced Diploma in Data Science (Waterloo). BBA (McGill).
 * **Work History:** AI Researcher at PayPal (credit risk models). Data Engineer at Amazon. Senior Data Engineer at Guiker. Partner Solutions Lead at Bus.com.
 
-# Active priorities
-
-1. **Job hunt** — Primary focus.
-2. **WPI master's** — graduating May 2026, PayPal credit risk research concluding.
-3. **VinoGuessr** — active build.
-4. **Neighborhood Somm** — prototype.
+# INFO
+* Email 1: jakeawatson91@gmail.com, Email 2: jaws.watson@gmail.com, Email 3: jwatson@wpi.edu
+* Phone 1 (USA): 8563649632, Phone 2 (Canada): 5149475363
+* Linkedin: https://www.linkedin.com/in/jakewatson91/
+* Website: https://jakewatson.sh/

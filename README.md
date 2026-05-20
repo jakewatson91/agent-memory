@@ -23,11 +23,6 @@ Three layers, three locations:
 - `ME.md` — background, identity, active priorities
 - `CODING.md` — technical stack defaults, code style rules
 
-### Domain-specific (loaded when relevant)
-
-`~/claude-cowork/CLAUDE.md` — imports `WRITING.md` when working in that folder
-`~/claude-cowork/WRITING.md` — job-app-specific writing rules and examples
-
 ### Per-project state (in each repo)
 
 `./CLAUDE.md` — project-specific stack, conventions, gotchas. Committed.
@@ -43,6 +38,7 @@ Daily log via the `append_daily_log` MCP tool. LanceDB vector store. Write durab
 Stored in `~/.claude/commands/`. Claude Code auto-discovers them.
 
 - `/wrap` — end-of-session protocol: merge state, log completed work, capture cross-project lessons
+- `/capture` — append a question/response pair to the corpus (application_questions, emails, linkedin, personal_stories)
 - `/promote` — turn a session-level pattern into a global rule (proposes location and text, waits for confirmation)
 - `/review_log` — review last 30 days of daily log entries and propose promotions
 - `/audit_global` — flag stale or outdated content in global files
